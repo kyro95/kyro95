@@ -1,7 +1,3 @@
-### <p align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm @kyro95 from <img src="https://user-images.githubusercontent.com/46943169/143686774-37d0919d-4b34-4348-9cf4-10789e08ffc0.png" width="25px"></p>
-
-### <p align="left">🧑‍💻 I'm currently interested in developing applications using javascript/csharp.</p> 
-
 <right> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyro95)](https://github.com/anuraghazra/github-readme-stats) 
 
 
